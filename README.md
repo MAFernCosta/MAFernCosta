@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Havrick and my name is Miguel Costa
+- 👋 Hi, I’m @MFernCosta and my name is Miguel Costa
 - 👀 I’m interested in programing and eletronics.
 - 🆓 My hobbies currently are: Projects with Eletronics and Home automation.
 - 🌱 I’m currently learning javascript.
