@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MFernCosta and my name is Miguel Costa
+- 👋 Hi, My name is Miguel Costa and I am a Plant operator transitioning back into programming, actively learning JavaScript to pursue my passion for tech.
+
 - 👀 I’m interested in programing and eletronics.
 - 🆓 My hobbies currently are: Projects with Eletronics and Home automation.
 - 🌱 I’m currently learning javascript.
