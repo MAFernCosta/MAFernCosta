@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in programing and eletronics.
 - 🆓 My hobbies currently are: Projects with Eletronics and Home automation.
-- 🌱 I’m currently learning Frontend dev.
+- 🌱 I’m currently learning Next.js dev.
 - 🇵🇹 I'm Portuguese but i currently live in 🫕 Switzerland🇨🇭.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
