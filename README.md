@@ -31,7 +31,7 @@ at [WISS Schulen für Wirtschaft Informatik Immobilien](https://www.wiss.ch/) in
 
 ## 📂 Selected Projects
 - 🏛️ **Homepage Morgenegg Gervasi AG** *(in progress)* – Modern, responsive company website  
-- 🎨 [Portfolio Website](#) – React/Next.js + Tailwind  
+- 🎨 [Portfolio Website](https://miguelcosta.xyz/) – React/Next.js + Tailwind  
 - 📖 Random Quote Machine – freeCodeCamp frontend certification project  
 
 ---
